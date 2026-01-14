@@ -1,2 +1,2 @@
 # Satura-Sck1
-For ICT
+For MY ict
